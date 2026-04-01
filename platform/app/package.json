@@ -97,7 +97,7 @@
     "@percy/cypress": "^3.1.1",
     "cypress": "^13.2.0",
     "cypress-file-upload": "^3.5.3",
-    "glob": "^8.0.3",
+    "glob": "^12.0.0",
     "identity-obj-proxy": "3.0.x",
     "lodash": "^4.17.21",
     "tailwindcss": "3.2.4",
